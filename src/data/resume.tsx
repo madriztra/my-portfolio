@@ -220,7 +220,7 @@ export const DATA = {
       ],
       links: [
       ],
-      image: "https://itbox.id/wp-content/uploads/2023/02/1660315042269_11zon.jpeg",
+      image: "https://blog.yourdesignjuice.com/wp-content/uploads/2020/11/dg-uxui-nov2020.jpg",
       video: "",
     },
     {
