@@ -205,7 +205,7 @@ export const DATA = {
       dates: "2023 - 2024",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "I Made a Web Developing Service, with entry-level price for Students or People who need a Web Developing Service.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -220,8 +220,8 @@ export const DATA = {
       ],
       links: [
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      image: "https://itbox.id/wp-content/uploads/2023/02/1660315042269_11zon.jpeg",
+      video: "",
     },
     {
       title: "Penetration Testing | University Websites",
