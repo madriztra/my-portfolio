@@ -40,4 +40,6 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 
 # License
 
+Original Portfolio By [Dillion Verma](https://github.com/dillionverma/)
+
 Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
